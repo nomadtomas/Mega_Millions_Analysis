@@ -17,6 +17,11 @@
 ## General Information
 Mega Millions is one of the most popular national lotteries in the US, along side with Powerball.  Like most lotteries it comes with very basic rules.  Tickets cost $2.00 per play. Players pick six numbers from two separate pools of numbers - five different numbers from 1 to 70 (the white balls) and one number from 1 to 25 (the gold Mega Ball).  The odds of winning are 1 in 302,575,350.  So not really in anyones favor. However, beyond just taking odds at face value, I took a closer look at this lottery and put the numbers to the test. Chi-square Goodness-of-Fit Test to be precise.  My analysis and code can be found under the ```notebooks``` folder. 
 
+<p align="center">
+  <img src="images/allnumhist.jpg">
+</p>
+
+
 ### Data Gathering:
 Data used for this analysis was gathered from mega millions website https://www.megamillions.com/.  The data was loaded from a ```csv``` file, the results of the webscraping, from ```data``` directory.
 
@@ -99,6 +104,9 @@ Reject the null hypothesis if test-statistic greater than our critical value of 
 
 ###### Step 5: Conclusion
 Given that the test statistic rendered 81.54 which is to the left (lower) of the critical value from the Chi-Square table of 89.391 and the p-value was greater than 0.05, There is not sufficient evidence to conclude that the lottery drawings numbers do not occur with equal frequencies.
+<p align="center">
+  <img src="images/newnumhist.png">
+</p>
 
 ## Technologies
 <p align="center">
