@@ -100,10 +100,6 @@ Reject the null hypothesis if test-statistic greater than our critical value of 
 ###### Step 5: Conclusion
 Given that the test statistic rendered 81.54 which is to the left (lower) of the critical value from the Chi-Square table of 89.391 and the p-value was greater than 0.05, There is not sufficient evidence to conclude that the lottery drawings numbers do not occur with equal frequencies.
 
-<p align="center">
-  <img src="images/chisq.gif">
-</p>
-
 ## Technologies
 <p align="center">
   <img src="images/logos.png">
