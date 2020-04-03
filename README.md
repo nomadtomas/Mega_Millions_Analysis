@@ -110,7 +110,7 @@ Data Gathering: Beautiful Soup<br>
 Data Analysis: Python 3, Numpy, Pandas, Scikit-Learn, Scipy<br>
 
 ###### Visualization:
-Data Visualization: Folium, Matplotlib, Seaborn
+Data Visualization: Matplotlib, Seaborn
 
 ## Future Improvements
 • Enrich the dataset by continuing to update drawing numbers<br>
