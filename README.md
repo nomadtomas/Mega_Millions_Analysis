@@ -102,7 +102,7 @@ Given that the test statistic rendered 81.54 which is to the left (lower) of the
 
 ## Technologies
 <p align="center">
-  <img src="images/logos.png">
+  <img src="images/logos.jpg">
 </p>
 
 ###### Python:
