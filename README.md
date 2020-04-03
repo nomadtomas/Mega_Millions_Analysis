@@ -18,7 +18,7 @@
 Mega Millions is one of the most popular national lotteries in the US, along side with Powerball.  Like most lotteries it comes with very basic rules.  Tickets cost $2.00 per play. Players pick six numbers from two separate pools of numbers - five different numbers from 1 to 70 (the white balls) and one number from 1 to 25 (the gold Mega Ball).  The odds of winning are 1 in 302,575,350.  So not really in anyones favor. However, beyond just taking odds at face value, I took a closer look at this lottery and put the numbers to the test. Chi-square Goodness-of-Fit Test to be precise.  My analysis and code can be found under the ```notebooks``` folder. 
 
 <p align="center">
-  <img src="images/allnumhist.jpg">
+  <img src="images/allnumhist.png">
 </p>
 
 
