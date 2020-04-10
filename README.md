@@ -2,6 +2,9 @@
 <p align="center">
   <img src="images/megamil.jpg">
 </p>
+<p align="center">
+  <img src="images/map.png">
+</p>
 
 ## Table of Contents
 * [General Information](#general-information)
