@@ -1,5 +1,5 @@
 # Mega Millions May The Megaodds Be Ever In Your Favor
-<p align="center">
+<p align="center" size=20%>
   <img src="images/megamil.jpg">
 </p>
 <p align="center">
