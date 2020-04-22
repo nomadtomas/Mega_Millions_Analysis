@@ -23,7 +23,7 @@ Mega Millions is one of the most popular national lotteries in the US, along sid
 
 
 ### Data Gathering:
-Data used for this analysis was gathered from mega millions website https://www.megamillions.com/.  The data was loaded from a ```csv``` file, the results of the webscraping, from ```data``` directory.
+Data used for this analysis was gathered from mega millions website https://www.megamillions.com/.  The data was loaded from a ```csv``` file, the results of the webscraping, from ```data``` directory.  Mega Million scraper file is under ```src``` directory, file name ```megamillions.py```
 
 ### Data Information:
 The data consists of 1,854 drawings since May 17, 2002 to March 31, 2020.  The hypothesis testing was done on a subset of that data due to changes in the Mega Millions lotto numbers, as noted on the table below.  The information about the winners and amounts was scraped directly from the mega millions website. 
