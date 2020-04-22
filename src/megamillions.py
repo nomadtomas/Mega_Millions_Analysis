@@ -67,6 +67,7 @@ def transformer(df):
     df['unit'] = df.loc[:,'unit'].fillna(value='Thousand')
     df['date'] = pd.to_datetime(df['date'])
     df['state'] =df['state'].apply(lambda x: x.strip())
+    df['jackpot'] = df['amount'] >= 40000000
     
     #minor data manipulation; replace Maryland to MD and Mi to MI (webdata is messy no matter the website)
     df['state'].replace({'Maryland':'MD', 'Mi':'MI'}, regex=True, inplace=True)
