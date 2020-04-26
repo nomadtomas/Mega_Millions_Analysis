@@ -1,282 +1,283 @@
-name,location,date,amount,unit,city,state,month,day,year,dayofweek
-Bob Ogrodnik & Bill Schouboe,"Virginia Beach, VA",2020-01-14,1000000.0,Million,Virginia Beach, VA,1,14,2020,Tuesday
-Just Us,"Eldora, IA",2019-12-17,1000000.0,Million,Eldora, IA,12,17,2019,Tuesday
-David Burnette,"Newport, NC",2019-12-06,50000.0,Thousand,Newport, NC,12,6,2019,Friday
-Dave Hodges,"Suffolk, VA",2019-10-29,1000000.0,Million,Suffolk, VA,10,29,2019,Tuesday
-Robert Calfee,"Park City, KY",2019-10-11,1000000.0,Million,Park City, KY,10,11,2019,Friday
-Robert & Elaine McEnroe,"Painted Post, NY",2019-08-27,1000000.0,Million,Painted Post, NY,8,27,2019,Tuesday
-Laarni Bibal,"San Diego, CA",2019-06-07,522000000.0,Million,San Diego, CA,6,7,2019,Friday
-Martin Oliverson,"Jacksonville, OR",2019-07-30,3000000.0,Million,Jacksonville, OR,7,30,2019,Tuesday
-Calvin Kim,"Alexandria, VA",2019-05-28,2000000.0,Million,Alexandria, VA,5,28,2019,Tuesday
-Javier Fernandez,"East Elmhurst, NY",2019-05-24,2000000.0,Million,East Elmhurst, NY,5,24,2019,Friday
-David Smith,"Farmington Hills, MI",2019-06-11,3000000.0,Million,Farmington Hills, MI,6,11,2019,Tuesday
-Kodjo Ayewonou,"Coon Rapids, MN",2019-06-04,1000000.0,Million,Coon Rapids, MN,6,4,2019,Tuesday
-Kristopher Chrysanthopoulos,"Oceanport, NJ",2019-05-28,1000000.0,Million,Oceanport, NJ,5,28,2019,Tuesday
-Anthony Wesley,"Triangle, VA",2019-04-16,1000000.0,Million,Triangle, VA,4,16,2019,Tuesday
-Angelica Chavez,"Sioux City, IA",2019-04-19,1000000.0,Million,Sioux City, IA,4,19,2019,Friday
-Stephen Kaplan,"Tappan, NY",2019-02-26,1000000.0,Million,Tappan, NY,2,26,2019,Tuesday
-Randy Richardson,"Millington, MI",2019-03-22,1000000.0,Million,Millington, MI,3,22,2019,Friday
-Hira Singh,"Shawnee, KS",2019-03-12,50000000.0,Million,Shawnee, KS,3,12,2019,Tuesday
-Michael J. Weirsky,"Alpha, NJ",2019-03-01,273000000.0,Million,Alpha, NJ,3,1,2019,Friday
-David Klemish,"Grand Ledge, MI",2019-02-22,1000000.0,Million,Grand Ledge, MI,2,22,2019,Friday
-"New Life 2019, LLC","Long Island, NY",2019-01-01,437000000.0,Million,Long Island, NY,1,1,2019,Tuesday
-Carole Murphy,"Oceanside, NY",2019-01-29,1000000.0,Million,Oceanside, NY,1,29,2019,Tuesday
-Linder Mathis,"Dumas, AR",2019-01-29,2000000.0,Million,Dumas, AR,1,29,2019,Tuesday
-Danny Lovett,"East Moline, IL",2019-01-15,1000000.0,Million,East Moline, IL,1,15,2019,Tuesday
-Gerard McMahon,"Bayside, NY",2019-01-01,1000000.0,Million,Bayside, NY,1,1,2019,Tuesday
-Ann Mingus,"Springfield, OR",2018-11-30,3000000.0,Million,Springfield, OR,11,30,2018,Friday
-Dulce Garcia,"Brooklyn, NY",2018-12-11,1000000.0,Million,Brooklyn, NY,12,11,2018,Tuesday
-Timothy Monte,"Tohajiilee, NM",2018-12-14,4000000.0,Million,Tohajiilee, NM,12,14,2018,Friday
-Vince Dorsey,"Loreauville, LA",2018-12-04,1000000.0,Million,Loreauville, LA,12,4,2018,Tuesday
-Chrissy Daskalakis,"Grosse Pointe Woods, MI",2018-10-30,1000000.0,Million,Grosse Pointe Woods, MI,10,30,2018,Tuesday
-MCM ER Nurses Club,"Mount Pleasant, MI",2018-10-23,1000000.0,Million,Mount Pleasant, MI,10,23,2018,Tuesday
-Bob Hollenback,"Milan, IL",2018-10-23,1000000.0,Million,Milan, IL,10,23,2018,Tuesday
-Bus Busters Lottery Club,"Hudsonville, MI",2018-10-23,1000000.0,Million,Hudsonville, MI,10,23,2018,Tuesday
-Jacquatte Prater,"Flint, MI",2018-10-30,2000000.0,Million,Flint, MI,10,30,2018,Tuesday
-Kelley Brooks,"Aylett, VA",2018-10-23,1000000.0,Million,Aylett, VA,10,23,2018,Tuesday
-Jerry & Jo Mears,"Eden, NC",2018-10-19,1000000.0,Million,Eden, NC,10,19,2018,Friday
-Jennifer Santo,"Dartmouth, MA",2018-10-23,1000000.0,Million,Dartmouth, MA,10,23,2018,Tuesday
-Ronnie Parker,"Dawson Springs, KY",2018-10-16,1000000.0,Million,Dawson Springs, KY,10,16,2018,Tuesday
-T. Burdess & C. Vandiver,"Sheridan, AR",2018-10-12,3000000.0,Million,Sheridan, AR,10,12,2018,Friday
-Magnificent 9,"Aurora, CO",2018-10-09,1000000.0,Million,Aurora, CO,10,9,2018,Tuesday
-Ashley Eggen,"Elizabethtown, KY",2018-10-05,1000000.0,Million,Elizabethtown, KY,10,5,2018,Friday
-Ronnie Martin,"Long Pond, PA",2018-07-24,1000000.0,Million,Long Pond, PA,7,24,2018,Tuesday
-The Lottery Club,"Fairfield, CT",2018-08-24,2000000.0,Million,Fairfield, CT,8,24,2018,Friday
-Ravens Fan,"Charles County, MD",2018-08-10,1000000.0,Million,Charles County, MD,8,10,2018,Friday
-James Griffin,"Winthrop, MA",2018-07-24,3000000.0,Million,Winthrop, MA,7,24,2018,Tuesday
-Mega Money Mama,"Indian Head, MD",2018-06-15,1000000.0,Million,Indian Head, MD,6,15,2018,Friday
-William & Mary Armstrong,"Kansas City, MO",2018-05-11,1000000.0,Million,Kansas City, MO,5,11,2018,Friday
-Joseph Barulich,"Woodside, NY",2018-05-08,1000000.0,Million,Woodside, NY,5,8,2018,Tuesday
-Who-Dat Veterans Group,"Los Angeles, CA",2018-05-04,570123.0,Thousand,Los Angeles, CA,5,4,2018,Friday
-South Carolina winner,"Conway, SC",2018-04-27,2000000.0,Million,Conway, SC,4,27,2018,Friday
-Richard Wahl,"Vernon, NJ",2018-03-30,533000000.0,Million,Vernon, NJ,3,30,2018,Friday
-Kansas winner,"Lincoln County, KS",2018-03-16,1000000.0,Million,Lincoln County, KS,3,16,2018,Friday
-Robert Nickle,"Stratford, CT",2018-03-13,5000000.0,Million,Stratford, CT,3,13,2018,Tuesday
-Kui Yuen Miu,"Queens, NY",2018-02-13,1000000.0,Million,Queens, NY,2,13,2018,Tuesday
-Brenda Jewell,"Cheboygan, Mi",2018-02-13,1000000.0,Million,Cheboygan, MI,2,13,2018,Tuesday
-Linda Z.,"Moorestown, NJ",2018-02-09,1000000.0,Million,Moorestown, NJ,2,9,2018,Friday
-Patty Loberg,"Bloomington, MN",2018-01-30,1000000.0,Million,Bloomington, MN,1,30,2018,Tuesday
-Jimmy Morgan,"Red Boiling Springs, TN",2018-01-05,1000000.0,Million,Red Boiling Springs, TN,1,5,2018,Friday
-Marcus Cobb,"Dale City, VA",2018-01-05,1000000.0,Million,Dale City, VA,1,5,2018,Friday
-Ruth Johnson,"Duncan, OK",2018-01-05,3000000.0,Million,Duncan, OK,1,5,2018,Friday
-Billy Thacker,"Broken Arrow, OK",2018-01-05,1000000.0,Million,Broken Arrow, OK,1,5,2018,Friday
-Joanne R.,"Bayonne, NJ",2017-12-01,4000000.0,Million,Bayonne, NJ,12,1,2017,Friday
-Timothy Manion,"Omaha, NE",2017-12-01,1000000.0,Million,Omaha, NE,12,1,2017,Friday
-Steven Schultheis,"Franklin, MA",2017-11-17,4000000.0,Million,Franklin, MA,11,17,2017,Friday
-Gladys Salzwedel,"Oakley, MI",2017-10-27,5000000.0,Million,Oakley, MI,10,27,2017,Friday
-Kevin & Stephanie Blake,"Waterford, MI",2017-10-13,21000000.0,Million,Waterford, MI,10,13,2017,Friday
-Billy Spurlock,"Costa Mesa, CA",2017-10-10,1.7999999523162842,Million,Costa Mesa, CA,10,10,2017,Tuesday
-David Budnick & Roger Wingo,"Henrico, VA",2017-09-26,1000000.0,Million,Henrico, VA,9,26,2017,Tuesday
-Wayne Harris,"Homer, NY",2017-09-22,105000000.0,Million,Homer, NY,9,22,2017,Friday
-Leonard Bulmer,"Albuquerque, NM",2017-08-18,1000000.0,Million,Albuquerque, NM,8,18,2017,Friday
-Patricia Busking,"Palos Heights, IL",2017-08-11,393000000.0,Million,Palos Heights, IL,8,11,2017,Friday
-District 150,"New York, NY",2017-08-08,1000000.0,Million,New York, NY,8,8,2017,Tuesday
-Paul Kuharevicz,"Muskegon, MI",2017-08-04,1000000.0,Million,Muskegon, MI,8,4,2017,Friday
-James Deal,"Harrisonburg, VA",2017-08-01,1000000.0,Million,Harrisonburg, VA,8,1,2017,Tuesday
-Katherine Dorazio,"Levittown, NY",2017-08-01,1000000.0,Million,Levittown, NY,8,1,2017,Tuesday
-Dana Nystrand & Matt Hazzard,"Richmond, VA",2017-07-21,1000000.0,Million,Richmond, VA,7,21,2017,Friday
-Michelle Faysal,"Ontario, Canada",2017-07-18,1000000.0,Million,Ontario, Canada,7,18,2017,Tuesday
-Jaime De Jesus Osorio Ocampo,"Queens, NY",2017-06-27,1000000.0,Million,Queens, NY,6,27,2017,Tuesday
-Huisun Cho,"Bayside Queens, NY",2017-06-23,1000000.0,Million,Bayside Queens, NY,6,23,2017,Friday
-Eliseo Gutierrez,"West Covina, CA",2017-06-16,906648.9375,Thousand,West Covina, CA,6,16,2017,Friday
-Samuel Smith,"Bridge City, LA",2017-06-06,1000000.0,Million,Bridge City, LA,6,6,2017,Tuesday
-Barry Griffing,"Dallas, TX",2017-05-23,1000000.0,Million,Dallas, TX,5,23,2017,Tuesday
-Rose Ditano,"Penhook, VA",2017-05-19,1000000.0,Million,Penhook, VA,5,19,2017,Friday
-Tomas Aguilar,"Everett, MA",2017-05-19,1000000.0,Million,Everett, MA,5,19,2017,Friday
-Hayward Phillips,"Chesapeake, VA",2017-05-09,1000000.0,Million,Chesapeake, VA,5,9,2017,Tuesday
-Reginald Davis,"Manakin Sabot, VA",2017-05-02,1000000.0,Million,Manakin Sabot, VA,5,2,2017,Tuesday
-David Trapp,"Laguna Hills, CA",2017-04-28,61000000.0,Million,Laguna Hills, CA,4,28,2017,Friday
-Kimberly Bryan,"Richland County, OH",2017-04-28,1000000.0,Million,Richland County, OH,4,28,2017,Friday
-Eliberto Cantu,"Lubbock, TX",2017-03-31,177000000.0,Million,Lubbock, TX,3,31,2017,Friday
-David Breen,"Middleboro, MA",2017-03-28,1000000.0,Million,Middleboro, MA,3,28,2017,Tuesday
-Thomas Broadstock,"Port Clinton, OH",2017-03-10,1000000.0,Million,Port Clinton, OH,3,10,2017,Friday
-Anthony Frabotta,"Rochester Hills, MI",2017-01-24,1000000.0,Million,Rochester Hills, MI,1,24,2017,Tuesday
-Janet & Charles Leisure,"Virginia Beach, VA",2016-12-27,1000000.0,Million,Virginia Beach, VA,12,27,2016,Tuesday
-South Carolina winner,"Charleston, SC",2016-12-27,1000000.0,Million,Charleston, SC,12,27,2016,Tuesday
-Barbara Jones,"Cordova, TN",2016-12-13,1000000.0,Million,Cordova, TN,12,13,2016,Tuesday
-Linda Evans,"Dry Fork, VA",2016-12-13,5000000.0,Million,Dry Fork, VA,12,13,2016,Tuesday
-Maria Melendez,"Alexandria, VA",2016-10-11,1000000.0,Million,Alexandria, VA,10,11,2016,Tuesday
-Wenceslao Leiva-Mena,"Manhattan, NY",2016-09-09,1000000.0,Million,Manhattan, NY,9,9,2016,Friday
-Mirella Honovic,"New Hyde Park, NY",2016-08-23,1000000.0,Million,New Hyde Park, NY,8,23,2016,Tuesday
-Reg Abare,"Barre, VT",2016-08-16,5000000.0,Million,Barre, VT,8,16,2016,Tuesday
-Donnie Alonzo,"Bronx, NY",2016-08-05,1000000.0,Million,Bronx, NY,8,5,2016,Friday
-Mountaineer 26,"Morgantown, WV",2016-08-02,1000000.0,Million,Morgantown, WV,8,2,2016,Tuesday
-James Riddle,"Montgomery County, OH",2016-07-26,3000000.0,Million,Montgomery County, OH,7,26,2016,Tuesday
-Kevin Young,"Bristow, VA",2016-07-22,7500000.0,Million,Bristow, VA,7,22,2016,Friday
-Christina Ford,"Dallas, GA",2016-07-22,7500000.0,Million,Dallas, GA,7,22,2016,Friday
-Michael D. Desselle,"Bay St. Louis, MS",2016-07-08,1000000.0,Million,Bay St. Louis, MS,7,8,2016,Friday
-Marcus Gonzalez,"Sharon, MA",2016-07-08,1000000.0,Million,Sharon, MA,7,8,2016,Friday
-"Warren D, LLC","Cambridge City, IN",2016-07-08,536000000.0,Million,Cambridge City, IN,7,8,2016,Friday
-Dana Pelletier,"Coral Gables, FL",2016-07-05,1000000.0,Million,Coral Gables, FL,7,5,2016,Tuesday
-Billy's Bunch,"Harrisville, RI",2016-06-17,5000000.0,Million,Harrisville, RI,6,17,2016,Friday
-Wilmington co-workers,"Wilmington, NC",2016-06-10,1000000.0,Million,Wilmington, NC,6,10,2016,Friday
-Richard Hopper Sr.,"Niles, MI",2016-05-27,1000000.0,Million,Niles, MI,5,27,2016,Friday
-Michael Ioannou,"Cupertino, CA",2016-05-20,750207.0625,Thousand,Cupertino, CA,5,20,2016,Friday
-North Dakota winner,"Williston, ND",2016-05-17,3000000.0,Million,Williston, ND,5,17,2016,Tuesday
-Baltimore winner,"Baltimore, MD",2016-05-13,1000000.0,Million,Baltimore, MD,5,13,2016,Friday
-Roberto Tripodi,"Valhalla, NY",2016-03-15,1000000.0,Million,Valhalla, NY,3,15,2016,Tuesday
-Michael Burkett,"Seattle, WA",2016-03-08,157000000.0,Million,Seattle, WA,3,8,2016,Tuesday
-Ricky Rhinebolt,"Mansfield, OH",2016-03-08,5000000.0,Million,Mansfield, OH,3,8,2016,Tuesday
-Maureen Wilson,"Temecula, CA",2016-03-01,802152.9375,Thousand,Temecula, CA,3,1,2016,Tuesday
-Maxine Miller,"Plainview, NY",2016-02-16,1000000.0,Million,Plainview, NY,2,16,2016,Tuesday
-Louise Ritenour,"Winchester, VA",2016-01-26,1000000.0,Million,Winchester, VA,1,26,2016,Tuesday
-Nina Kochneva & family,"Brooklyn, NY",2016-01-19,1000000.0,Million,Brooklyn, NY,1,19,2016,Tuesday
-John Rehm,"Dexter, MI",2016-01-19,1000000.0,Million,Dexter, MI,1,19,2016,Tuesday
-Nancy Viola,"Staten Island, NY",2016-01-08,169000000.0,Million,Staten Island, NY,1,8,2016,Friday
-Jason Klingel,"Bohemia, NY",2016-01-05,1000000.0,Million,Bohemia, NY,1,5,2016,Tuesday
-Julisa Sosa,"East Windsor, NJ",2015-12-22,1000000.0,Million,East Windsor, NJ,12,22,2015,Tuesday
-Kansas winner,"Topeka, KS",2015-12-18,1000000.0,Million,Topeka, KS,12,18,2015,Friday
-Armando Alvarez,"Baltimore, MD",2015-12-11,1000000.0,Million,Baltimore, MD,12,11,2015,Friday
-Lawrence Kopczyk,"Howell, MI",2015-12-08,1000000.0,Million,Howell, MI,12,8,2015,Tuesday
-Silvia Rosales,"Revere, MA",2015-12-01,1000000.0,Million,Revere, MA,12,1,2015,Tuesday
-Ramon Rosario,"Pleasantville, NJ",2015-11-27,1000000.0,Million,Pleasantville, NJ,11,27,2015,Friday
-The Baldwin Seven,"Kearney, NE",2015-11-24,1000000.0,Million,Kearney, NE,11,24,2015,Tuesday
-"Betty Downs, Mike Hartman","Burlington & Winfield, IA",2015-11-20,1000000.0,Million,Burlington & Winfield, IA,11,20,2015,Friday
-South Carolina winner,"Chester, SC",2015-10-30,5000000.0,Million,Chester, SC,10,30,2015,Friday
-Maryland Army Veteran,"Baltimore County, MD",2015-09-18,1000000.0,Million,Baltimore County, MD,9,18,2015,Friday
-Five NY/NJ friends,"Yonkers, NY",2015-09-11,106000000.0,Million,Yonkers, NY,9,11,2015,Friday
-Michael Hicks,"Comstock Park, MI",2015-09-11,1000000.0,Million,Comstock Park, MI,9,11,2015,Friday
-Daryl B.,"Mifflintown, PA",2015-08-21,1000000.0,Million,Mifflintown, PA,8,21,2015,Friday
-"Francois Marrec, Jr.","Haverhill, MA",2015-08-18,1000000.0,Million,Haverhill, MA,8,18,2015,Tuesday
-Sara Hupp,"Champion, MI",2015-08-07,1000000.0,Million,Champion, MI,8,7,2015,Friday
-Maryland Redskins Fan,"Glen Burnie, MD",2015-08-04,1000000.0,Million,Glen Burnie, MD,8,4,2015,Tuesday
-Raul Ahumada,"Noel, MO",2015-07-31,25000000.0,Million,Noel, MO,7,31,2015,Friday
-Steven Peloquin,"Mechanicsville, VA",2015-07-21,153000000.0,Million,Mechanicsville, VA,7,21,2015,Tuesday
-Gang of Fourteen,"Woolwich, ME",2015-07-10,3000000.0,Million,Woolwich, ME,7,10,2015,Friday
-Phyllis Roller,"Beebe, AR",2015-07-07,3000000.0,Million,Beebe, AR,7,7,2015,Tuesday
-Sandra Goines and Mickey Regan,"Newport, KY",2015-07-03,1000000.0,Million,Newport, KY,7,3,2015,Friday
-The Awesome Eight,"Broadway, VA",2015-06-26,1000000.0,Million,Broadway, VA,6,26,2015,Friday
-Andy Ciaccio,"Herndon, VA",2015-06-12,5000000.0,Million,Herndon, VA,6,12,2015,Friday
-Tom Cook,"Salem, VA",2015-06-12,1000000.0,Million,Salem, VA,6,12,2015,Friday
-Jay Cranney,"Sandy, UT",2015-06-05,1000000.0,Million,Sandy, UT,6,5,2015,Friday
-Don Wilson,"South Chesterfield, VA",2015-06-02,3000000.0,Million,South Chesterfield, VA,6,2,2015,Tuesday
-Charlie Thur,"Burgaw, NC",2015-06-02,1000000.0,Million,Burgaw, NC,6,2,2015,Tuesday
-Anthony Fusaro,"Plymouth, MN",2015-06-02,1000000.0,Million,Plymouth, MN,6,2,2015,Tuesday
-Henry “Calvin” Nash,"Mableton, GA",2015-06-02,1000000.0,Million,Mableton, GA,6,2,2015,Tuesday
-John Williams and Neal Logue,"Blue Island, IL",2015-06-02,262000000.0,Million,Blue Island, IL,6,2,2015,Tuesday
-Janice Rovner,"Amherst, NY",2015-06-02,1000000.0,Million,Amherst, NY,6,2,2015,Tuesday
-Charles Messenger,"Salinas, CA",2015-05-26,2.700000047683716,Million,Salinas, CA,5,26,2015,Tuesday
-Peter Marino,"Everett, MA",2015-05-22,1000000.0,Million,Everett, MA,5,22,2015,Friday
-Carolyn Keras,"Steubenville, OH",2015-05-08,1000000.0,Million,Steubenville, OH,5,8,2015,Friday
-Kansas winner,"Wichita, KS",2015-04-28,1000000.0,Million,Wichita, KS,4,28,2015,Tuesday
-Charles Bibbs,"Henrico, VA",2015-04-21,1000000.0,Million,Henrico, VA,4,21,2015,Tuesday
-South Carolina winner,"Columbia, SC",2015-04-21,1000000.0,Million,Columbia, SC,4,21,2015,Tuesday
-Fred Morgan,"Detroit, MI",2015-04-17,1000000.0,Million,Detroit, MI,4,17,2015,Friday
-David Kalanik,"Oakland County, MI",2015-04-03,5000000.0,Million,Oakland County, MI,4,3,2015,Friday
-Anthony Fazzini,"Oakley, CA",2015-03-31,672000.0,Thousand,Oakley, CA,3,31,2015,Tuesday
-Ricardo Abeyta,"Los Lunas, NM",2015-03-27,1000000.0,Million,Los Lunas, NM,3,27,2015,Friday
-Charles Miller,"Roslyn, NY",2015-03-27,1000000.0,Million,Roslyn, NY,3,27,2015,Friday
-Anthony Paruolo,"King's Park, NY",2015-03-24,1000000.0,Million,King's Park, NY,3,24,2015,Tuesday
-Lucky 16 Trust,"Manhattan, NY",2015-03-24,58000000.0,Million,Manhattan, NY,3,24,2015,Tuesday
-Gloria Swanigan,"San Pedro, CA",2015-03-10,1.100000023841858,Million,San Pedro, CA,3,10,2015,Tuesday
-Tammy Pratt,"South Fallsburg, NY",2015-02-27,126000000.0,Million,South Fallsburg, NY,2,27,2015,Friday
-Bill Deluca,"Coalinga, CA",2015-02-13,3500000.0,Million,Coalinga, CA,2,13,2015,Friday
-Marianna Lauro,"Kenilworth, NJ",2015-01-30,1000000.0,Million,Kenilworth, NJ,1,30,2015,Friday
-Jesus Davila Jr.,"Naperville, IL",2015-01-16,265000000.0,Million,Naperville, IL,1,16,2015,Friday
-Lucky 13 Lotto Club,"Ypsilanti, MI",2015-01-13,1000000.0,Million,Ypsilanti, MI,1,13,2015,Tuesday
-Joel McKinzie,"Lake Crystal, MN",2015-01-13,1000000.0,Million,Lake Crystal, MN,1,13,2015,Tuesday
-Michael & Nancy Baker,"Sun City West, AZ",2015-01-13,5000000.0,Million,Sun City West, AZ,1,13,2015,Tuesday
-Baker’s Dozen + 3,"Waterbury, CT",2015-01-09,1000000.0,Million,Waterbury, CT,1,9,2015,Friday
-The Fabulous Five,"Charleston, WV",2015-01-09,1000000.0,Million,Charleston, WV,1,9,2015,Friday
-Sandra McDonald,"Woodbridge, VA",2014-12-30,1000000.0,Million,Woodbridge, VA,12,30,2014,Tuesday
-Young Soon Cho,"Los Angeles, CA",2014-12-12,928084.0,Thousand,Los Angeles, CA,12,12,2014,Friday
-Mark Paul,"Chicopee, MA",2014-12-05,1000000.0,Million,Chicopee, MA,12,5,2014,Friday
-Jaylene Smith,"San Jose, CA",2014-11-18,463395.0,Thousand,San Jose, CA,11,18,2014,Tuesday
-Margaret Clark,"Coram, NY",2014-11-04,4000000.0,Million,Coram, NY,11,4,2014,Tuesday
-Harold Diamond,"Wurtsboro, NY",2014-11-04,326000000.0,Million,Wurtsboro, NY,11,4,2014,Tuesday
-John Manganiotis,"Saddle Brook, NJ",2014-11-04,1000000.0,Million,Saddle Brook, NJ,11,4,2014,Tuesday
-Emaley and Alex Escalera,"Stockton, CA",2014-11-04,597933.0,Thousand,Stockton, CA,11,4,2014,Tuesday
-17 Amigos LLC,"East Meadow, NY",2014-10-31,1000000.0,Million,East Meadow, NY,10,31,2014,Friday
-The Mega 12,"St. Robert, MO",2014-10-28,1000000.0,Million,St. Robert, MO,10,28,2014,Tuesday
-Kennedy Howard,"Montgomery, AL",2014-10-24,1000000.0,Million,Montgomery, AL,10,24,2014,Friday
-42 MEGAwatts,"Oakbrook, IL",2014-10-21,1000000.0,Million,Oakbrook, IL,10,21,2014,Tuesday
-Sean Ransom,"Inglewood, CA",2014-10-17,274279.0,Thousand,Inglewood, CA,10,17,2014,Friday
-Delavan Co-Workers,"Delavan, WI",2014-10-17,1000000.0,Million,Delavan, WI,10,17,2014,Friday
-Lisa Metz,"Hutchison, KS",2014-10-14,1000000.0,Million,Hutchison, KS,10,14,2014,Tuesday
-Michael Schmitt,"Massapequa Park, NY",2014-10-14,1000000.0,Million,Massapequa Park, NY,10,14,2014,Tuesday
-Dennis Carrig & Karen Rheney,"Long Beach, CA",2014-10-10,1.2999999523162842,Million,Long Beach, CA,10,10,2014,Friday
-Cindy Thurm,"Medora, IL",2014-10-07,1000000.0,Million,Medora, IL,10,7,2014,Tuesday
-Judy Marsh,"Abingdon, VA",2014-09-23,1000000.0,Million,Abingdon, VA,9,23,2014,Tuesday
-Aisha Hawkins,"Capitol Heights, MD",2014-09-09,1000000.0,Million,Capitol Heights, MD,9,9,2014,Tuesday
-Glenda Mack-Sturgeon,"Birmingham, AL",2014-09-05,1000000.0,Million,Birmingham, AL,9,5,2014,Friday
-Dariusz Bugnacki,"Brooklyn, NY",2014-09-02,1000000.0,Million,Brooklyn, NY,9,2,2014,Tuesday
-Rick Knudsen,"Calimesa, CA",2014-08-22,180000000.0,Million,Calimesa, CA,8,22,2014,Friday
-Ahmad Qarah,"Sycamore, IL",2014-08-15,1000000.0,Million,Sycamore, IL,8,15,2014,Friday
-Patricia Oliveira,"New Bedford, MA",2014-08-08,1000000.0,Million,New Bedford, MA,8,8,2014,Friday
-"Stephen, Marsha & Craig Bevis","Johnston, IA",2014-08-01,1000000.0,Million,Johnston, IA,8,1,2014,Friday
-Mark & Lisa Schmidt,"Umatilla, OR",2014-07-18,1000000.0,Million,Umatilla, OR,7,18,2014,Friday
-WMU Employee Group,"Winchester, KY",2014-07-15,1000000.0,Million,Winchester, KY,7,15,2014,Tuesday
-Kelsey Zachow,"Port Huron, MI",2014-06-13,66000000.0,Million,Port Huron, MI,6,13,2014,Friday
-Walt Plummer,"Sterling, VA",2014-06-13,1000000.0,Million,Sterling, VA,6,13,2014,Friday
-Glenn Eaton,"Atlanta, NY",2014-05-27,1000000.0,Million,Atlanta, NY,5,27,2014,Tuesday
-Carl Szott,"Pittsburgh, PA",2014-05-20,149000000.0,Million,Pittsburgh, PA,5,20,2014,Tuesday
-Cynthia Posey,"Kentwood, MI",2014-05-20,1000000.0,Million,Kentwood, MI,5,20,2014,Tuesday
-Ron Ranallo,"Bartlett, IL",2014-05-16,1000000.0,Million,Bartlett, IL,5,16,2014,Friday
-Milandi Almaweri,"Alameda County, CA",2014-05-09,468905.0,Thousand,Alameda County, CA,5,9,2014,Friday
-Michael Fuchs,"Long Beach, NY",2014-05-02,1000000.0,Million,Long Beach, NY,5,2,2014,Friday
-Leopoldo Choi,"Los Angeles, CA",2014-04-04,30000000.0,Million,Los Angeles, CA,4,4,2014,Friday
-"Matthew White, Jr.","Charlotte, NC",2014-04-01,1000000.0,Million,Charlotte, NC,4,1,2014,Tuesday
-Jennifer Krauss,"Westland, MI",2014-04-01,1000000.0,Million,Westland, MI,4,1,2014,Tuesday
-Cameron Finney,"Suffolk County, NY",2014-03-25,20000000.0,Million,Suffolk County, NY,3,25,2014,Tuesday
-Maryland winner,"La Plata, MD",2014-03-18,207000000.0,Million,La Plata, MD,3,18,2014,Tuesday
-Cobie and Seamus Trust,"Merritt Island, FL",2014-03-18,207000000.0,Million,Merritt Island, FL,3,18,2014,Tuesday
-Cathy & Dave Seiden,"Downers Grove, IL",2014-03-18,1000000.0,Million,Downers Grove, IL,3,18,2014,Tuesday
-Mahendra KC,"San Bruno, CA",2014-03-18,1.9600000381469727,Million,San Bruno, CA,3,18,2014,Tuesday
-Gary Shepherd,"Owosso, MI",2014-03-18,1000000.0,Million,Owosso, MI,3,18,2014,Tuesday
-Rhonda Denis & co-workers,"Vero Beach, FL",2014-03-18,1000000.0,Million,Vero Beach, FL,3,18,2014,Tuesday
-Miranda Huffman,"Lepanto, AR",2014-03-14,3000000.0,Million,Lepanto, AR,3,14,2014,Friday
-Glinda Salgado,"Chantilly, VA",2014-03-14,3000000.0,Million,Chantilly, VA,3,14,2014,Friday
-William Little,"Westlake, OH",2014-03-14,1000000.0,Million,Westlake, OH,3,14,2014,Friday
-Fort Worth Friends,"Fort Worth, TX",2014-03-11,1000000.0,Million,Fort Worth, TX,3,11,2014,Tuesday
-Michael Dow,"Grafton, MA",2014-03-07,1000000.0,Million,Grafton, MA,3,7,2014,Friday
-Merces Goncalves,"San Jose, CA",2014-03-04,421811.0,Thousand,San Jose, CA,3,4,2014,Tuesday
-Maryland winner,"Essex, MD",2014-02-25,1000000.0,Million,Essex, MD,2,25,2014,Tuesday
-Woodrow Green,"Richmond, VA",2014-02-21,1000000.0,Million,Richmond, VA,2,21,2014,Friday
-Rondal & Eumeka Saxton,"Los Angeles, CA",2014-02-14,505010.0,Thousand,Los Angeles, CA,2,14,2014,Friday
-Richard Gusefski,"Endicott, NY",2014-02-14,1000000.0,Million,Endicott, NY,2,14,2014,Friday
-Randy Brown,"Man, WV",2014-02-07,1000000.0,Million,Man, WV,2,7,2014,Friday
-Carlos Cardenas,"Whittier, CA",2014-02-04,910780.9375,Thousand,Whittier, CA,2,4,2014,Tuesday
-Cynthia Radosavljevic,"Garfield Heights, OH",2014-01-21,1000000.0,Million,Garfield Heights, OH,1,21,2014,Tuesday
-Ysmaille Castor,"Waldorf, MD",2014-01-17,1000000.0,Million,Waldorf, MD,1,17,2014,Friday
-Clarence Wright,"Greensboro, NC",2014-01-14,1000000.0,Million,Greensboro, NC,1,14,2014,Tuesday
-Hewlett-Packard Employees,"Andover, MA",2014-01-14,1000000.0,Million,Andover, MA,1,14,2014,Tuesday
-Tina & Jonathan Still,"Nashville, TN",2014-01-03,61000000.0,Million,Nashville, TN,1,3,2014,Friday
-Audel Acevedo,"Mesa, AZ",2013-12-24,1000000.0,Million,Mesa, AZ,12,24,2013,Tuesday
-Elizabeth Parker,"Lombard, IL",2013-12-24,1000000.0,Million,Lombard, IL,12,24,2013,Tuesday
-Fred Wagenhals,"Payson, AZ",2013-12-20,1000000.0,Million,Payson, AZ,12,20,2013,Friday
-Steve Tran,"San Jose, CA",2013-12-17,324000000.0,Million,San Jose, CA,12,17,2013,Tuesday
-Denise N. Garza,"Brownsville, TX",2013-12-17,1000000.0,Million,Brownsville, TX,12,17,2013,Tuesday
-Jesse Whitley,"Bethlehem, GA",2013-12-17,1000000.0,Million,Bethlehem, GA,12,17,2013,Tuesday
-Ira Curry,"Stone Mountain, GA",2013-12-17,324000000.0,Million,Stone Mountain, GA,12,17,2013,Tuesday
-Amy Gourlay,"Niles, MI",2013-12-17,1000000.0,Million,Niles, MI,12,17,2013,Tuesday
-Allen & JoAnn Cooke,"Columbus, NE",2013-12-17,1000000.0,Million,Columbus, NE,12,17,2013,Tuesday
-Thu Ha Thi Tran,"Chicago, IL",2013-12-17,1000000.0,Million,Chicago, IL,12,17,2013,Tuesday
-City of Syracuse coworkers,"Syracuse, NY",2013-12-13,1000000.0,Million,Syracuse, NY,12,13,2013,Friday
-Deanna Wilson,"Eastpointe, MI",2013-12-13,1000000.0,Million,Eastpointe, MI,12,13,2013,Friday
-John Morris,"Waterford, MI",2013-12-13,1000000.0,Million,Waterford, MI,12,13,2013,Friday
-Keith Robinson,"Manhattan, NY",2013-12-13,1000000.0,Million,Manhattan, NY,12,13,2013,Friday
-Elie S. Bassil,"West Yarmouth, MA",2013-12-10,1000000.0,Million,West Yarmouth, MA,12,10,2013,Tuesday
-Robert Rich,"Shelton, CT",2013-12-10,1000000.0,Million,Shelton, CT,12,10,2013,Tuesday
-Eileen Charles,"Stony Point, NY",2013-11-26,1000000.0,Million,Stony Point, NY,11,26,2013,Tuesday
-Enrique Cruz,"Glendale Heights, IL",2013-11-26,1000000.0,Million,Glendale Heights, IL,11,26,2013,Tuesday
-Robert Tripodi,"Coram, NY",2013-11-26,1000000.0,Million,Coram, NY,11,26,2013,Tuesday
-Everette Sloop Jr.,"Rockwell, NC",2013-11-22,3000000.0,Million,Rockwell, NC,11,22,2013,Friday
-Newcan Company Employees,"Holbrook, MA",2013-11-19,1000000.0,Million,Holbrook, MA,11,19,2013,Tuesday
-Migdalia Julia,"Irondequoit, NY",2013-11-15,1000000.0,Million,Irondequoit, NY,11,15,2013,Friday
-Hilton & Alicia Cancel,"Floral Park Village, NY",2013-11-12,1000000.0,Million,Floral Park Village, NY,11,12,2013,Tuesday
-Edward Shaw,"Oceanside, CA",2013-11-05,410115.0,Thousand,Oceanside, CA,11,5,2013,Tuesday
-Sandra Castro,"Fort Stockton, TX",2013-11-01,1000000.0,Million,Fort Stockton, TX,11,1,2013,Friday
-Thomas Armstrong,"Palmdale, CA",2013-10-25,479070.0,Thousand,Palmdale, CA,10,25,2013,Friday
-Lucky Family,"Anne Arundel County, MD",2013-10-01,189000000.0,Million,Anne Arundel County, MD,10,1,2013,Tuesday
-Dick Zelasko,"Troy, MI",2013-07-05,80000000.0,Million,Troy, MI,7,5,2013,Friday
-Darryl & Judith Smith,"Mays Landing, NJ",2013-05-31,30000000.0,Million,Mays Landing, NJ,5,31,2013,Friday
-Lewis Howard,"Cumberland, VA",2013-05-17,99000000.0,Million,Cumberland, VA,5,17,2013,Friday
-Giuseppe Garofalo,"Monmouth County, NJ",2013-05-17,99000000.0,Million,Monmouth County, NJ,5,17,2013,Friday
-Judy Juntunen,"Atlantic Mine, MI",2013-02-05,19000000.0,Million,Atlantic Mine, MI,2,5,2013,Tuesday
-Angel Guallpa-Mayancela,"Essex County, NJ",2013-01-25,89000000.0,Million,Essex County, NJ,1,25,2013,Friday
-Zippy Vonier,"Thomasville, GA",2012-11-27,50000000.0,Million,Thomasville, GA,11,27,2012,Tuesday
-Philip Cimino,"Garden City Park, NY",2012-11-02,33000000.0,Million,Garden City Park, NY,11,2,2012,Friday
-Sandeep Singh,"Hyannis, MA",2012-10-16,30.049999237060547,Million,Hyannis, MA,10,16,2012,Tuesday
-Bladimir & Marita Agnite,"Fremont, CA",2012-07-27,52000000.0,Million,Fremont, CA,7,27,2012,Friday
-The Three Amigos,"Milford Mill, Maryland",2012-03-30,218.05999755859375,Million,Milford Mill, MD,3,30,2012,Friday
-Merle & Patricia Butler,"Red Bud, IL",2012-03-30,218.05999755859375,Million,Red Bud, IL,3,30,2012,Friday
+name,location,date,amount,unit,city,state,jackpot,month,day,year,dayofweek
+James Robbins,"Tualatin, OR",2020-02-21,1000000.0,Million,Tualatin,OR,False,2,21,2020,Friday
+Bob Ogrodnik & Bill Schouboe,"Virginia Beach, VA",2020-01-14,1000000.0,Million,Virginia Beach,VA,False,1,14,2020,Tuesday
+Just Us,"Eldora, IA",2019-12-17,1000000.0,Million,Eldora,IA,False,12,17,2019,Tuesday
+David Burnette,"Newport, NC",2019-12-06,50000.0,Thousand,Newport,NC,False,12,6,2019,Friday
+Dave Hodges,"Suffolk, VA",2019-10-29,1000000.0,Million,Suffolk,VA,False,10,29,2019,Tuesday
+Robert Calfee,"Park City, KY",2019-10-11,1000000.0,Million,Park City,KY,False,10,11,2019,Friday
+Robert & Elaine McEnroe,"Painted Post, NY",2019-08-27,1000000.0,Million,Painted Post,NY,False,8,27,2019,Tuesday
+Laarni Bibal,"San Diego, CA",2019-06-07,522000000.0,Million,San Diego,CA,True,6,7,2019,Friday
+Martin Oliverson,"Jacksonville, OR",2019-07-30,3000000.0,Million,Jacksonville,OR,False,7,30,2019,Tuesday
+Calvin Kim,"Alexandria, VA",2019-05-28,2000000.0,Million,Alexandria,VA,False,5,28,2019,Tuesday
+Javier Fernandez,"East Elmhurst, NY",2019-05-24,2000000.0,Million,East Elmhurst,NY,False,5,24,2019,Friday
+David Smith,"Farmington Hills, MI",2019-06-11,3000000.0,Million,Farmington Hills,MI,False,6,11,2019,Tuesday
+Kodjo Ayewonou,"Coon Rapids, MN",2019-06-04,1000000.0,Million,Coon Rapids,MN,False,6,4,2019,Tuesday
+Kristopher Chrysanthopoulos,"Oceanport, NJ",2019-05-28,1000000.0,Million,Oceanport,NJ,False,5,28,2019,Tuesday
+Anthony Wesley,"Triangle, VA",2019-04-16,1000000.0,Million,Triangle,VA,False,4,16,2019,Tuesday
+Angelica Chavez,"Sioux City, IA",2019-04-19,1000000.0,Million,Sioux City,IA,False,4,19,2019,Friday
+Stephen Kaplan,"Tappan, NY",2019-02-26,1000000.0,Million,Tappan,NY,False,2,26,2019,Tuesday
+Randy Richardson,"Millington, MI",2019-03-22,1000000.0,Million,Millington,MI,False,3,22,2019,Friday
+Hira Singh,"Shawnee, KS",2019-03-12,50000000.0,Million,Shawnee,KS,True,3,12,2019,Tuesday
+Michael J. Weirsky,"Alpha, NJ",2019-03-01,273000000.0,Million,Alpha,NJ,True,3,1,2019,Friday
+David Klemish,"Grand Ledge, MI",2019-02-22,1000000.0,Million,Grand Ledge,MI,False,2,22,2019,Friday
+"New Life 2019, LLC","Long Island, NY",2019-01-01,437000000.0,Million,Long Island,NY,True,1,1,2019,Tuesday
+Carole Murphy,"Oceanside, NY",2019-01-29,1000000.0,Million,Oceanside,NY,False,1,29,2019,Tuesday
+Linder Mathis,"Dumas, AR",2019-01-29,2000000.0,Million,Dumas,AR,False,1,29,2019,Tuesday
+Danny Lovett,"East Moline, IL",2019-01-15,1000000.0,Million,East Moline,IL,False,1,15,2019,Tuesday
+Gerard McMahon,"Bayside, NY",2019-01-01,1000000.0,Million,Bayside,NY,False,1,1,2019,Tuesday
+Ann Mingus,"Springfield, OR",2018-11-30,3000000.0,Million,Springfield,OR,False,11,30,2018,Friday
+Dulce Garcia,"Brooklyn, NY",2018-12-11,1000000.0,Million,Brooklyn,NY,False,12,11,2018,Tuesday
+Timothy Monte,"Tohajiilee, NM",2018-12-14,4000000.0,Million,Tohajiilee,NM,False,12,14,2018,Friday
+Vince Dorsey,"Loreauville, LA",2018-12-04,1000000.0,Million,Loreauville,LA,False,12,4,2018,Tuesday
+Chrissy Daskalakis,"Grosse Pointe Woods, MI",2018-10-30,1000000.0,Million,Grosse Pointe Woods,MI,False,10,30,2018,Tuesday
+MCM ER Nurses Club,"Mount Pleasant, MI",2018-10-23,1000000.0,Million,Mount Pleasant,MI,False,10,23,2018,Tuesday
+Bob Hollenback,"Milan, IL",2018-10-23,1000000.0,Million,Milan,IL,False,10,23,2018,Tuesday
+Bus Busters Lottery Club,"Hudsonville, MI",2018-10-23,1000000.0,Million,Hudsonville,MI,False,10,23,2018,Tuesday
+Jacquatte Prater,"Flint, MI",2018-10-30,2000000.0,Million,Flint,MI,False,10,30,2018,Tuesday
+Kelley Brooks,"Aylett, VA",2018-10-23,1000000.0,Million,Aylett,VA,False,10,23,2018,Tuesday
+Jerry & Jo Mears,"Eden, NC",2018-10-19,1000000.0,Million,Eden,NC,False,10,19,2018,Friday
+Jennifer Santo,"Dartmouth, MA",2018-10-23,1000000.0,Million,Dartmouth,MA,False,10,23,2018,Tuesday
+Ronnie Parker,"Dawson Springs, KY",2018-10-16,1000000.0,Million,Dawson Springs,KY,False,10,16,2018,Tuesday
+T. Burdess & C. Vandiver,"Sheridan, AR",2018-10-12,3000000.0,Million,Sheridan,AR,False,10,12,2018,Friday
+Magnificent 9,"Aurora, CO",2018-10-09,1000000.0,Million,Aurora,CO,False,10,9,2018,Tuesday
+Ashley Eggen,"Elizabethtown, KY",2018-10-05,1000000.0,Million,Elizabethtown,KY,False,10,5,2018,Friday
+Ronnie Martin,"Long Pond, PA",2018-07-24,1000000.0,Million,Long Pond,PA,False,7,24,2018,Tuesday
+The Lottery Club,"Fairfield, CT",2018-08-24,2000000.0,Million,Fairfield,CT,False,8,24,2018,Friday
+Ravens Fan,"Charles County, MD",2018-08-10,1000000.0,Million,Charles County,MD,False,8,10,2018,Friday
+James Griffin,"Winthrop, MA",2018-07-24,3000000.0,Million,Winthrop,MA,False,7,24,2018,Tuesday
+Mega Money Mama,"Indian Head, MD",2018-06-15,1000000.0,Million,Indian Head,MD,False,6,15,2018,Friday
+William & Mary Armstrong,"Kansas City, MO",2018-05-11,1000000.0,Million,Kansas City,MO,False,5,11,2018,Friday
+Joseph Barulich,"Woodside, NY",2018-05-08,1000000.0,Million,Woodside,NY,False,5,8,2018,Tuesday
+Who-Dat Veterans Group,"Los Angeles, CA",2018-05-04,570123.0,Thousand,Los Angeles,CA,False,5,4,2018,Friday
+South Carolina winner,"Conway, SC",2018-04-27,2000000.0,Million,Conway,SC,False,4,27,2018,Friday
+Richard Wahl,"Vernon, NJ",2018-03-30,533000000.0,Million,Vernon,NJ,True,3,30,2018,Friday
+Kansas winner,"Lincoln County, KS",2018-03-16,1000000.0,Million,Lincoln County,KS,False,3,16,2018,Friday
+Robert Nickle,"Stratford, CT",2018-03-13,5000000.0,Million,Stratford,CT,False,3,13,2018,Tuesday
+Kui Yuen Miu,"Queens, NY",2018-02-13,1000000.0,Million,Queens,NY,False,2,13,2018,Tuesday
+Brenda Jewell,"Cheboygan, Mi",2018-02-13,1000000.0,Million,Cheboygan,MI,False,2,13,2018,Tuesday
+Linda Z.,"Moorestown, NJ",2018-02-09,1000000.0,Million,Moorestown,NJ,False,2,9,2018,Friday
+Patty Loberg,"Bloomington, MN",2018-01-30,1000000.0,Million,Bloomington,MN,False,1,30,2018,Tuesday
+Jimmy Morgan,"Red Boiling Springs, TN",2018-01-05,1000000.0,Million,Red Boiling Springs,TN,False,1,5,2018,Friday
+Marcus Cobb,"Dale City, VA",2018-01-05,1000000.0,Million,Dale City,VA,False,1,5,2018,Friday
+Ruth Johnson,"Duncan, OK",2018-01-05,3000000.0,Million,Duncan,OK,False,1,5,2018,Friday
+Billy Thacker,"Broken Arrow, OK",2018-01-05,1000000.0,Million,Broken Arrow,OK,False,1,5,2018,Friday
+Joanne R.,"Bayonne, NJ",2017-12-01,4000000.0,Million,Bayonne,NJ,False,12,1,2017,Friday
+Timothy Manion,"Omaha, NE",2017-12-01,1000000.0,Million,Omaha,NE,False,12,1,2017,Friday
+Steven Schultheis,"Franklin, MA",2017-11-17,4000000.0,Million,Franklin,MA,False,11,17,2017,Friday
+Gladys Salzwedel,"Oakley, MI",2017-10-27,5000000.0,Million,Oakley,MI,False,10,27,2017,Friday
+Kevin & Stephanie Blake,"Waterford, MI",2017-10-13,21000000.0,Million,Waterford,MI,False,10,13,2017,Friday
+Billy Spurlock,"Costa Mesa, CA",2017-10-10,1799999.9523162842,Million,Costa Mesa,CA,False,10,10,2017,Tuesday
+David Budnick & Roger Wingo,"Henrico, VA",2017-09-26,1000000.0,Million,Henrico,VA,False,9,26,2017,Tuesday
+Wayne Harris,"Homer, NY",2017-09-22,105000000.0,Million,Homer,NY,True,9,22,2017,Friday
+Leonard Bulmer,"Albuquerque, NM",2017-08-18,1000000.0,Million,Albuquerque,NM,False,8,18,2017,Friday
+Patricia Busking,"Palos Heights, IL",2017-08-11,393000000.0,Million,Palos Heights,IL,True,8,11,2017,Friday
+District 150,"New York, NY",2017-08-08,1000000.0,Million,New York,NY,False,8,8,2017,Tuesday
+Paul Kuharevicz,"Muskegon, MI",2017-08-04,1000000.0,Million,Muskegon,MI,False,8,4,2017,Friday
+James Deal,"Harrisonburg, VA",2017-08-01,1000000.0,Million,Harrisonburg,VA,False,8,1,2017,Tuesday
+Katherine Dorazio,"Levittown, NY",2017-08-01,1000000.0,Million,Levittown,NY,False,8,1,2017,Tuesday
+Dana Nystrand & Matt Hazzard,"Richmond, VA",2017-07-21,1000000.0,Million,Richmond,VA,False,7,21,2017,Friday
+Michelle Faysal,"Ontario, Canada",2017-07-18,1000000.0,Million,Ontario,Canada,False,7,18,2017,Tuesday
+Jaime De Jesus Osorio Ocampo,"Queens, NY",2017-06-27,1000000.0,Million,Queens,NY,False,6,27,2017,Tuesday
+Huisun Cho,"Bayside Queens, NY",2017-06-23,1000000.0,Million,Bayside Queens,NY,False,6,23,2017,Friday
+Eliseo Gutierrez,"West Covina, CA",2017-06-16,906648.9375,Thousand,West Covina,CA,False,6,16,2017,Friday
+Samuel Smith,"Bridge City, LA",2017-06-06,1000000.0,Million,Bridge City,LA,False,6,6,2017,Tuesday
+Barry Griffing,"Dallas, TX",2017-05-23,1000000.0,Million,Dallas,TX,False,5,23,2017,Tuesday
+Rose Ditano,"Penhook, VA",2017-05-19,1000000.0,Million,Penhook,VA,False,5,19,2017,Friday
+Tomas Aguilar,"Everett, MA",2017-05-19,1000000.0,Million,Everett,MA,False,5,19,2017,Friday
+Hayward Phillips,"Chesapeake, VA",2017-05-09,1000000.0,Million,Chesapeake,VA,False,5,9,2017,Tuesday
+Reginald Davis,"Manakin Sabot, VA",2017-05-02,1000000.0,Million,Manakin Sabot,VA,False,5,2,2017,Tuesday
+David Trapp,"Laguna Hills, CA",2017-04-28,61000000.0,Million,Laguna Hills,CA,True,4,28,2017,Friday
+Kimberly Bryan,"Richland County, OH",2017-04-28,1000000.0,Million,Richland County,OH,False,4,28,2017,Friday
+Eliberto Cantu,"Lubbock, TX",2017-03-31,177000000.0,Million,Lubbock,TX,True,3,31,2017,Friday
+David Breen,"Middleboro, MA",2017-03-28,1000000.0,Million,Middleboro,MA,False,3,28,2017,Tuesday
+Thomas Broadstock,"Port Clinton, OH",2017-03-10,1000000.0,Million,Port Clinton,OH,False,3,10,2017,Friday
+Anthony Frabotta,"Rochester Hills, MI",2017-01-24,1000000.0,Million,Rochester Hills,MI,False,1,24,2017,Tuesday
+Janet & Charles Leisure,"Virginia Beach, VA",2016-12-27,1000000.0,Million,Virginia Beach,VA,False,12,27,2016,Tuesday
+South Carolina winner,"Charleston, SC",2016-12-27,1000000.0,Million,Charleston,SC,False,12,27,2016,Tuesday
+Barbara Jones,"Cordova, TN",2016-12-13,1000000.0,Million,Cordova,TN,False,12,13,2016,Tuesday
+Linda Evans,"Dry Fork, VA",2016-12-13,5000000.0,Million,Dry Fork,VA,False,12,13,2016,Tuesday
+Maria Melendez,"Alexandria, VA",2016-10-11,1000000.0,Million,Alexandria,VA,False,10,11,2016,Tuesday
+Wenceslao Leiva-Mena,"Manhattan, NY",2016-09-09,1000000.0,Million,Manhattan,NY,False,9,9,2016,Friday
+Mirella Honovic,"New Hyde Park, NY",2016-08-23,1000000.0,Million,New Hyde Park,NY,False,8,23,2016,Tuesday
+Reg Abare,"Barre, VT",2016-08-16,5000000.0,Million,Barre,VT,False,8,16,2016,Tuesday
+Donnie Alonzo,"Bronx, NY",2016-08-05,1000000.0,Million,Bronx,NY,False,8,5,2016,Friday
+Mountaineer 26,"Morgantown, WV",2016-08-02,1000000.0,Million,Morgantown,WV,False,8,2,2016,Tuesday
+James Riddle,"Montgomery County, OH",2016-07-26,3000000.0,Million,Montgomery County,OH,False,7,26,2016,Tuesday
+Kevin Young,"Bristow, VA",2016-07-22,7500000.0,Million,Bristow,VA,False,7,22,2016,Friday
+Christina Ford,"Dallas, GA",2016-07-22,7500000.0,Million,Dallas,GA,False,7,22,2016,Friday
+Michael D. Desselle,"Bay St. Louis, MS",2016-07-08,1000000.0,Million,Bay St. Louis,MS,False,7,8,2016,Friday
+Marcus Gonzalez,"Sharon, MA",2016-07-08,1000000.0,Million,Sharon,MA,False,7,8,2016,Friday
+"Warren D, LLC","Cambridge City, IN",2016-07-08,536000000.0,Million,Cambridge City,IN,True,7,8,2016,Friday
+Dana Pelletier,"Coral Gables, FL",2016-07-05,1000000.0,Million,Coral Gables,FL,False,7,5,2016,Tuesday
+Billy's Bunch,"Harrisville, RI",2016-06-17,5000000.0,Million,Harrisville,RI,False,6,17,2016,Friday
+Wilmington co-workers,"Wilmington, NC",2016-06-10,1000000.0,Million,Wilmington,NC,False,6,10,2016,Friday
+Richard Hopper Sr.,"Niles, MI",2016-05-27,1000000.0,Million,Niles,MI,False,5,27,2016,Friday
+Michael Ioannou,"Cupertino, CA",2016-05-20,750207.0625,Thousand,Cupertino,CA,False,5,20,2016,Friday
+North Dakota winner,"Williston, ND",2016-05-17,3000000.0,Million,Williston,ND,False,5,17,2016,Tuesday
+Baltimore winner,"Baltimore, MD",2016-05-13,1000000.0,Million,Baltimore,MD,False,5,13,2016,Friday
+Roberto Tripodi,"Valhalla, NY",2016-03-15,1000000.0,Million,Valhalla,NY,False,3,15,2016,Tuesday
+Michael Burkett,"Seattle, WA",2016-03-08,157000000.0,Million,Seattle,WA,True,3,8,2016,Tuesday
+Ricky Rhinebolt,"Mansfield, OH",2016-03-08,5000000.0,Million,Mansfield,OH,False,3,8,2016,Tuesday
+Maureen Wilson,"Temecula, CA",2016-03-01,802152.9375,Thousand,Temecula,CA,False,3,1,2016,Tuesday
+Maxine Miller,"Plainview, NY",2016-02-16,1000000.0,Million,Plainview,NY,False,2,16,2016,Tuesday
+Louise Ritenour,"Winchester, VA",2016-01-26,1000000.0,Million,Winchester,VA,False,1,26,2016,Tuesday
+Nina Kochneva & family,"Brooklyn, NY",2016-01-19,1000000.0,Million,Brooklyn,NY,False,1,19,2016,Tuesday
+John Rehm,"Dexter, MI",2016-01-19,1000000.0,Million,Dexter,MI,False,1,19,2016,Tuesday
+Nancy Viola,"Staten Island, NY",2016-01-08,169000000.0,Million,Staten Island,NY,True,1,8,2016,Friday
+Jason Klingel,"Bohemia, NY",2016-01-05,1000000.0,Million,Bohemia,NY,False,1,5,2016,Tuesday
+Julisa Sosa,"East Windsor, NJ",2015-12-22,1000000.0,Million,East Windsor,NJ,False,12,22,2015,Tuesday
+Kansas winner,"Topeka, KS",2015-12-18,1000000.0,Million,Topeka,KS,False,12,18,2015,Friday
+Armando Alvarez,"Baltimore, MD",2015-12-11,1000000.0,Million,Baltimore,MD,False,12,11,2015,Friday
+Lawrence Kopczyk,"Howell, MI",2015-12-08,1000000.0,Million,Howell,MI,False,12,8,2015,Tuesday
+Silvia Rosales,"Revere, MA",2015-12-01,1000000.0,Million,Revere,MA,False,12,1,2015,Tuesday
+Ramon Rosario,"Pleasantville, NJ",2015-11-27,1000000.0,Million,Pleasantville,NJ,False,11,27,2015,Friday
+The Baldwin Seven,"Kearney, NE",2015-11-24,1000000.0,Million,Kearney,NE,False,11,24,2015,Tuesday
+"Betty Downs, Mike Hartman","Burlington & Winfield, IA",2015-11-20,1000000.0,Million,Burlington & Winfield,IA,False,11,20,2015,Friday
+South Carolina winner,"Chester, SC",2015-10-30,5000000.0,Million,Chester,SC,False,10,30,2015,Friday
+Maryland Army Veteran,"Baltimore County, MD",2015-09-18,1000000.0,Million,Baltimore County,MD,False,9,18,2015,Friday
+Five NY/NJ friends,"Yonkers, NY",2015-09-11,106000000.0,Million,Yonkers,NY,True,9,11,2015,Friday
+Michael Hicks,"Comstock Park, MI",2015-09-11,1000000.0,Million,Comstock Park,MI,False,9,11,2015,Friday
+Daryl B.,"Mifflintown, PA",2015-08-21,1000000.0,Million,Mifflintown,PA,False,8,21,2015,Friday
+"Francois Marrec, Jr.","Haverhill, MA",2015-08-18,1000000.0,Million,Haverhill,MA,False,8,18,2015,Tuesday
+Sara Hupp,"Champion, MI",2015-08-07,1000000.0,Million,Champion,MI,False,8,7,2015,Friday
+Maryland Redskins Fan,"Glen Burnie, MD",2015-08-04,1000000.0,Million,Glen Burnie,MD,False,8,4,2015,Tuesday
+Raul Ahumada,"Noel, MO",2015-07-31,25000000.0,Million,Noel,MO,False,7,31,2015,Friday
+Steven Peloquin,"Mechanicsville, VA",2015-07-21,153000000.0,Million,Mechanicsville,VA,True,7,21,2015,Tuesday
+Gang of Fourteen,"Woolwich, ME",2015-07-10,3000000.0,Million,Woolwich,ME,False,7,10,2015,Friday
+Phyllis Roller,"Beebe, AR",2015-07-07,3000000.0,Million,Beebe,AR,False,7,7,2015,Tuesday
+Sandra Goines and Mickey Regan,"Newport, KY",2015-07-03,1000000.0,Million,Newport,KY,False,7,3,2015,Friday
+The Awesome Eight,"Broadway, VA",2015-06-26,1000000.0,Million,Broadway,VA,False,6,26,2015,Friday
+Andy Ciaccio,"Herndon, VA",2015-06-12,5000000.0,Million,Herndon,VA,False,6,12,2015,Friday
+Tom Cook,"Salem, VA",2015-06-12,1000000.0,Million,Salem,VA,False,6,12,2015,Friday
+Jay Cranney,"Sandy, UT",2015-06-05,1000000.0,Million,Sandy,UT,False,6,5,2015,Friday
+Don Wilson,"South Chesterfield, VA",2015-06-02,3000000.0,Million,South Chesterfield,VA,False,6,2,2015,Tuesday
+Charlie Thur,"Burgaw, NC",2015-06-02,1000000.0,Million,Burgaw,NC,False,6,2,2015,Tuesday
+Anthony Fusaro,"Plymouth, MN",2015-06-02,1000000.0,Million,Plymouth,MN,False,6,2,2015,Tuesday
+Henry “Calvin” Nash,"Mableton, GA",2015-06-02,1000000.0,Million,Mableton,GA,False,6,2,2015,Tuesday
+John Williams and Neal Logue,"Blue Island, IL",2015-06-02,262000000.0,Million,Blue Island,IL,True,6,2,2015,Tuesday
+Janice Rovner,"Amherst, NY",2015-06-02,1000000.0,Million,Amherst,NY,False,6,2,2015,Tuesday
+Charles Messenger,"Salinas, CA",2015-05-26,2700000.047683716,Million,Salinas,CA,False,5,26,2015,Tuesday
+Peter Marino,"Everett, MA",2015-05-22,1000000.0,Million,Everett,MA,False,5,22,2015,Friday
+Carolyn Keras,"Steubenville, OH",2015-05-08,1000000.0,Million,Steubenville,OH,False,5,8,2015,Friday
+Kansas winner,"Wichita, KS",2015-04-28,1000000.0,Million,Wichita,KS,False,4,28,2015,Tuesday
+Charles Bibbs,"Henrico, VA",2015-04-21,1000000.0,Million,Henrico,VA,False,4,21,2015,Tuesday
+South Carolina winner,"Columbia, SC",2015-04-21,1000000.0,Million,Columbia,SC,False,4,21,2015,Tuesday
+Fred Morgan,"Detroit, MI",2015-04-17,1000000.0,Million,Detroit,MI,False,4,17,2015,Friday
+David Kalanik,"Oakland County, MI",2015-04-03,5000000.0,Million,Oakland County,MI,False,4,3,2015,Friday
+Anthony Fazzini,"Oakley, CA",2015-03-31,672000.0,Thousand,Oakley,CA,False,3,31,2015,Tuesday
+Ricardo Abeyta,"Los Lunas, NM",2015-03-27,1000000.0,Million,Los Lunas,NM,False,3,27,2015,Friday
+Charles Miller,"Roslyn, NY",2015-03-27,1000000.0,Million,Roslyn,NY,False,3,27,2015,Friday
+Anthony Paruolo,"King's Park, NY",2015-03-24,1000000.0,Million,King's Park,NY,False,3,24,2015,Tuesday
+Lucky 16 Trust,"Manhattan, NY",2015-03-24,58000000.0,Million,Manhattan,NY,True,3,24,2015,Tuesday
+Gloria Swanigan,"San Pedro, CA",2015-03-10,1100000.023841858,Million,San Pedro,CA,False,3,10,2015,Tuesday
+Tammy Pratt,"South Fallsburg, NY",2015-02-27,126000000.0,Million,South Fallsburg,NY,True,2,27,2015,Friday
+Bill Deluca,"Coalinga, CA",2015-02-13,3500000.0,Million,Coalinga,CA,False,2,13,2015,Friday
+Marianna Lauro,"Kenilworth, NJ",2015-01-30,1000000.0,Million,Kenilworth,NJ,False,1,30,2015,Friday
+Jesus Davila Jr.,"Naperville, IL",2015-01-16,265000000.0,Million,Naperville,IL,True,1,16,2015,Friday
+Lucky 13 Lotto Club,"Ypsilanti, MI",2015-01-13,1000000.0,Million,Ypsilanti,MI,False,1,13,2015,Tuesday
+Joel McKinzie,"Lake Crystal, MN",2015-01-13,1000000.0,Million,Lake Crystal,MN,False,1,13,2015,Tuesday
+Michael & Nancy Baker,"Sun City West, AZ",2015-01-13,5000000.0,Million,Sun City West,AZ,False,1,13,2015,Tuesday
+Baker’s Dozen + 3,"Waterbury, CT",2015-01-09,1000000.0,Million,Waterbury,CT,False,1,9,2015,Friday
+The Fabulous Five,"Charleston, WV",2015-01-09,1000000.0,Million,Charleston,WV,False,1,9,2015,Friday
+Sandra McDonald,"Woodbridge, VA",2014-12-30,1000000.0,Million,Woodbridge,VA,False,12,30,2014,Tuesday
+Young Soon Cho,"Los Angeles, CA",2014-12-12,928084.0,Thousand,Los Angeles,CA,False,12,12,2014,Friday
+Mark Paul,"Chicopee, MA",2014-12-05,1000000.0,Million,Chicopee,MA,False,12,5,2014,Friday
+Jaylene Smith,"San Jose, CA",2014-11-18,463395.0,Thousand,San Jose,CA,False,11,18,2014,Tuesday
+Margaret Clark,"Coram, NY",2014-11-04,4000000.0,Million,Coram,NY,False,11,4,2014,Tuesday
+Harold Diamond,"Wurtsboro, NY",2014-11-04,326000000.0,Million,Wurtsboro,NY,True,11,4,2014,Tuesday
+John Manganiotis,"Saddle Brook, NJ",2014-11-04,1000000.0,Million,Saddle Brook,NJ,False,11,4,2014,Tuesday
+Emaley and Alex Escalera,"Stockton, CA",2014-11-04,597933.0,Thousand,Stockton,CA,False,11,4,2014,Tuesday
+17 Amigos LLC,"East Meadow, NY",2014-10-31,1000000.0,Million,East Meadow,NY,False,10,31,2014,Friday
+The Mega 12,"St. Robert, MO",2014-10-28,1000000.0,Million,St. Robert,MO,False,10,28,2014,Tuesday
+Kennedy Howard,"Montgomery, AL",2014-10-24,1000000.0,Million,Montgomery,AL,False,10,24,2014,Friday
+42 MEGAwatts,"Oakbrook, IL",2014-10-21,1000000.0,Million,Oakbrook,IL,False,10,21,2014,Tuesday
+Sean Ransom,"Inglewood, CA",2014-10-17,274279.0,Thousand,Inglewood,CA,False,10,17,2014,Friday
+Delavan Co-Workers,"Delavan, WI",2014-10-17,1000000.0,Million,Delavan,WI,False,10,17,2014,Friday
+Lisa Metz,"Hutchison, KS",2014-10-14,1000000.0,Million,Hutchison,KS,False,10,14,2014,Tuesday
+Michael Schmitt,"Massapequa Park, NY",2014-10-14,1000000.0,Million,Massapequa Park,NY,False,10,14,2014,Tuesday
+Dennis Carrig & Karen Rheney,"Long Beach, CA",2014-10-10,1299999.9523162842,Million,Long Beach,CA,False,10,10,2014,Friday
+Cindy Thurm,"Medora, IL",2014-10-07,1000000.0,Million,Medora,IL,False,10,7,2014,Tuesday
+Judy Marsh,"Abingdon, VA",2014-09-23,1000000.0,Million,Abingdon,VA,False,9,23,2014,Tuesday
+Aisha Hawkins,"Capitol Heights, MD",2014-09-09,1000000.0,Million,Capitol Heights,MD,False,9,9,2014,Tuesday
+Glenda Mack-Sturgeon,"Birmingham, AL",2014-09-05,1000000.0,Million,Birmingham,AL,False,9,5,2014,Friday
+Dariusz Bugnacki,"Brooklyn, NY",2014-09-02,1000000.0,Million,Brooklyn,NY,False,9,2,2014,Tuesday
+Rick Knudsen,"Calimesa, CA",2014-08-22,180000000.0,Million,Calimesa,CA,True,8,22,2014,Friday
+Ahmad Qarah,"Sycamore, IL",2014-08-15,1000000.0,Million,Sycamore,IL,False,8,15,2014,Friday
+Patricia Oliveira,"New Bedford, MA",2014-08-08,1000000.0,Million,New Bedford,MA,False,8,8,2014,Friday
+"Stephen, Marsha & Craig Bevis","Johnston, IA",2014-08-01,1000000.0,Million,Johnston,IA,False,8,1,2014,Friday
+Mark & Lisa Schmidt,"Umatilla, OR",2014-07-18,1000000.0,Million,Umatilla,OR,False,7,18,2014,Friday
+WMU Employee Group,"Winchester, KY",2014-07-15,1000000.0,Million,Winchester,KY,False,7,15,2014,Tuesday
+Kelsey Zachow,"Port Huron, MI",2014-06-13,66000000.0,Million,Port Huron,MI,True,6,13,2014,Friday
+Walt Plummer,"Sterling, VA",2014-06-13,1000000.0,Million,Sterling,VA,False,6,13,2014,Friday
+Glenn Eaton,"Atlanta, NY",2014-05-27,1000000.0,Million,Atlanta,NY,False,5,27,2014,Tuesday
+Carl Szott,"Pittsburgh, PA",2014-05-20,149000000.0,Million,Pittsburgh,PA,True,5,20,2014,Tuesday
+Cynthia Posey,"Kentwood, MI",2014-05-20,1000000.0,Million,Kentwood,MI,False,5,20,2014,Tuesday
+Ron Ranallo,"Bartlett, IL",2014-05-16,1000000.0,Million,Bartlett,IL,False,5,16,2014,Friday
+Milandi Almaweri,"Alameda County, CA",2014-05-09,468905.0,Thousand,Alameda County,CA,False,5,9,2014,Friday
+Michael Fuchs,"Long Beach, NY",2014-05-02,1000000.0,Million,Long Beach,NY,False,5,2,2014,Friday
+Leopoldo Choi,"Los Angeles, CA",2014-04-04,30000000.0,Million,Los Angeles,CA,False,4,4,2014,Friday
+"Matthew White, Jr.","Charlotte, NC",2014-04-01,1000000.0,Million,Charlotte,NC,False,4,1,2014,Tuesday
+Jennifer Krauss,"Westland, MI",2014-04-01,1000000.0,Million,Westland,MI,False,4,1,2014,Tuesday
+Cameron Finney,"Suffolk County, NY",2014-03-25,20000000.0,Million,Suffolk County,NY,False,3,25,2014,Tuesday
+Maryland winner,"La Plata, MD",2014-03-18,207000000.0,Million,La Plata,MD,True,3,18,2014,Tuesday
+Cobie and Seamus Trust,"Merritt Island, FL",2014-03-18,207000000.0,Million,Merritt Island,FL,True,3,18,2014,Tuesday
+Cathy & Dave Seiden,"Downers Grove, IL",2014-03-18,1000000.0,Million,Downers Grove,IL,False,3,18,2014,Tuesday
+Mahendra KC,"San Bruno, CA",2014-03-18,1960000.0381469727,Million,San Bruno,CA,False,3,18,2014,Tuesday
+Gary Shepherd,"Owosso, MI",2014-03-18,1000000.0,Million,Owosso,MI,False,3,18,2014,Tuesday
+Rhonda Denis & co-workers,"Vero Beach, FL",2014-03-18,1000000.0,Million,Vero Beach,FL,False,3,18,2014,Tuesday
+Miranda Huffman,"Lepanto, AR",2014-03-14,3000000.0,Million,Lepanto,AR,False,3,14,2014,Friday
+Glinda Salgado,"Chantilly, VA",2014-03-14,3000000.0,Million,Chantilly,VA,False,3,14,2014,Friday
+William Little,"Westlake, OH",2014-03-14,1000000.0,Million,Westlake,OH,False,3,14,2014,Friday
+Fort Worth Friends,"Fort Worth, TX",2014-03-11,1000000.0,Million,Fort Worth,TX,False,3,11,2014,Tuesday
+Michael Dow,"Grafton, MA",2014-03-07,1000000.0,Million,Grafton,MA,False,3,7,2014,Friday
+Merces Goncalves,"San Jose, CA",2014-03-04,421811.0,Thousand,San Jose,CA,False,3,4,2014,Tuesday
+Maryland winner,"Essex, MD",2014-02-25,1000000.0,Million,Essex,MD,False,2,25,2014,Tuesday
+Woodrow Green,"Richmond, VA",2014-02-21,1000000.0,Million,Richmond,VA,False,2,21,2014,Friday
+Rondal & Eumeka Saxton,"Los Angeles, CA",2014-02-14,505010.0,Thousand,Los Angeles,CA,False,2,14,2014,Friday
+Richard Gusefski,"Endicott, NY",2014-02-14,1000000.0,Million,Endicott,NY,False,2,14,2014,Friday
+Randy Brown,"Man, WV",2014-02-07,1000000.0,Million,Man,WV,False,2,7,2014,Friday
+Carlos Cardenas,"Whittier, CA",2014-02-04,910780.9375,Thousand,Whittier,CA,False,2,4,2014,Tuesday
+Cynthia Radosavljevic,"Garfield Heights, OH",2014-01-21,1000000.0,Million,Garfield Heights,OH,False,1,21,2014,Tuesday
+Ysmaille Castor,"Waldorf, MD",2014-01-17,1000000.0,Million,Waldorf,MD,False,1,17,2014,Friday
+Clarence Wright,"Greensboro, NC",2014-01-14,1000000.0,Million,Greensboro,NC,False,1,14,2014,Tuesday
+Hewlett-Packard Employees,"Andover, MA",2014-01-14,1000000.0,Million,Andover,MA,False,1,14,2014,Tuesday
+Tina & Jonathan Still,"Nashville, TN",2014-01-03,61000000.0,Million,Nashville,TN,True,1,3,2014,Friday
+Audel Acevedo,"Mesa, AZ",2013-12-24,1000000.0,Million,Mesa,AZ,False,12,24,2013,Tuesday
+Elizabeth Parker,"Lombard, IL",2013-12-24,1000000.0,Million,Lombard,IL,False,12,24,2013,Tuesday
+Fred Wagenhals,"Payson, AZ",2013-12-20,1000000.0,Million,Payson,AZ,False,12,20,2013,Friday
+Steve Tran,"San Jose, CA",2013-12-17,324000000.0,Million,San Jose,CA,True,12,17,2013,Tuesday
+Denise N. Garza,"Brownsville, TX",2013-12-17,1000000.0,Million,Brownsville,TX,False,12,17,2013,Tuesday
+Jesse Whitley,"Bethlehem, GA",2013-12-17,1000000.0,Million,Bethlehem,GA,False,12,17,2013,Tuesday
+Ira Curry,"Stone Mountain, GA",2013-12-17,324000000.0,Million,Stone Mountain,GA,True,12,17,2013,Tuesday
+Amy Gourlay,"Niles, MI",2013-12-17,1000000.0,Million,Niles,MI,False,12,17,2013,Tuesday
+Allen & JoAnn Cooke,"Columbus, NE",2013-12-17,1000000.0,Million,Columbus,NE,False,12,17,2013,Tuesday
+Thu Ha Thi Tran,"Chicago, IL",2013-12-17,1000000.0,Million,Chicago,IL,False,12,17,2013,Tuesday
+City of Syracuse coworkers,"Syracuse, NY",2013-12-13,1000000.0,Million,Syracuse,NY,False,12,13,2013,Friday
+Deanna Wilson,"Eastpointe, MI",2013-12-13,1000000.0,Million,Eastpointe,MI,False,12,13,2013,Friday
+John Morris,"Waterford, MI",2013-12-13,1000000.0,Million,Waterford,MI,False,12,13,2013,Friday
+Keith Robinson,"Manhattan, NY",2013-12-13,1000000.0,Million,Manhattan,NY,False,12,13,2013,Friday
+Elie S. Bassil,"West Yarmouth, MA",2013-12-10,1000000.0,Million,West Yarmouth,MA,False,12,10,2013,Tuesday
+Robert Rich,"Shelton, CT",2013-12-10,1000000.0,Million,Shelton,CT,False,12,10,2013,Tuesday
+Eileen Charles,"Stony Point, NY",2013-11-26,1000000.0,Million,Stony Point,NY,False,11,26,2013,Tuesday
+Enrique Cruz,"Glendale Heights, IL",2013-11-26,1000000.0,Million,Glendale Heights,IL,False,11,26,2013,Tuesday
+Robert Tripodi,"Coram, NY",2013-11-26,1000000.0,Million,Coram,NY,False,11,26,2013,Tuesday
+Everette Sloop Jr.,"Rockwell, NC",2013-11-22,3000000.0,Million,Rockwell,NC,False,11,22,2013,Friday
+Newcan Company Employees,"Holbrook, MA",2013-11-19,1000000.0,Million,Holbrook,MA,False,11,19,2013,Tuesday
+Migdalia Julia,"Irondequoit, NY",2013-11-15,1000000.0,Million,Irondequoit,NY,False,11,15,2013,Friday
+Hilton & Alicia Cancel,"Floral Park Village, NY",2013-11-12,1000000.0,Million,Floral Park Village,NY,False,11,12,2013,Tuesday
+Edward Shaw,"Oceanside, CA",2013-11-05,410115.0,Thousand,Oceanside,CA,False,11,5,2013,Tuesday
+Sandra Castro,"Fort Stockton, TX",2013-11-01,1000000.0,Million,Fort Stockton,TX,False,11,1,2013,Friday
+Thomas Armstrong,"Palmdale, CA",2013-10-25,479070.0,Thousand,Palmdale,CA,False,10,25,2013,Friday
+Lucky Family,"Anne Arundel County, MD",2013-10-01,189000000.0,Million,Anne Arundel County,MD,True,10,1,2013,Tuesday
+Dick Zelasko,"Troy, MI",2013-07-05,80000000.0,Million,Troy,MI,True,7,5,2013,Friday
+Darryl & Judith Smith,"Mays Landing, NJ",2013-05-31,30000000.0,Million,Mays Landing,NJ,False,5,31,2013,Friday
+Lewis Howard,"Cumberland, VA",2013-05-17,99000000.0,Million,Cumberland,VA,True,5,17,2013,Friday
+Giuseppe Garofalo,"Monmouth County, NJ",2013-05-17,99000000.0,Million,Monmouth County,NJ,True,5,17,2013,Friday
+Judy Juntunen,"Atlantic Mine, MI",2013-02-05,19000000.0,Million,Atlantic Mine,MI,False,2,5,2013,Tuesday
+Angel Guallpa-Mayancela,"Essex County, NJ",2013-01-25,89000000.0,Million,Essex County,NJ,True,1,25,2013,Friday
+Zippy Vonier,"Thomasville, GA",2012-11-27,50000000.0,Million,Thomasville,GA,True,11,27,2012,Tuesday
+Philip Cimino,"Garden City Park, NY",2012-11-02,33000000.0,Million,Garden City Park,NY,False,11,2,2012,Friday
+Sandeep Singh,"Hyannis, MA",2012-10-16,30049999.237060547,Million,Hyannis,MA,False,10,16,2012,Tuesday
+Bladimir & Marita Agnite,"Fremont, CA",2012-07-27,52000000.0,Million,Fremont,CA,True,7,27,2012,Friday
+The Three Amigos,"Milford Mill, Maryland",2012-03-30,218059997.55859375,Million,Milford Mill,MD,True,3,30,2012,Friday
+Merle & Patricia Butler,"Red Bud, IL",2012-03-30,218059997.55859375,Million,Red Bud,IL,True,3,30,2012,Friday
